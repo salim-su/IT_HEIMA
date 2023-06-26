@@ -22,7 +22,6 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-context:5.3.28" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.3.28" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.3.28" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.7.13" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-logging:2.7.13" level="project" />
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:1.2.12" level="project" />
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-core:1.2.12" level="project" />
@@ -46,7 +45,6 @@
     <orderEntry type="library" scope="TEST" name="Maven: net.minidev:json-smart:2.4.11" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: net.minidev:accessors-smart:2.4.11" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.ow2.asm:asm:9.3" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.36" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:2.3.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: jakarta.activation:jakarta.activation-api:1.2.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.assertj:assertj-core:3.22.0" level="project" />
@@ -73,5 +71,9 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.mybatis.spring.boot:mybatis-spring-boot-starter-test:2.3.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.mybatis.spring.boot:mybatis-spring-boot-test-autoconfigure:2.3.1" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.3.28" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:druid-spring-boot-starter:1.2.8" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:druid:1.2.8" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.36" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.7.13" level="project" />
   </component>
 </module>
