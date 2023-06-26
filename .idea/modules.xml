@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Heima_Java.iml" filepath="$PROJECT_DIR$/.idea/Heima_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Codes/day01/day01.iml" filepath="$PROJECT_DIR$/Codes/day01/day01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Codes/day02/day02.iml" filepath="$PROJECT_DIR$/Codes/day02/day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-quickstart/springboot-mybatis-quickstart.iml" filepath="$PROJECT_DIR$/springboot-mybatis-quickstart/springboot-mybatis-quickstart.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-web-quickstart/springboot-web-quickstart.iml" filepath="$PROJECT_DIR$/springboot-web-quickstart/springboot-web-quickstart.iml" />
     </modules>
   </component>
